@@ -1,0 +1,204 @@
+{% extends "base.html" %}
+{% block title %}Get Recommendations – TNEA Advisor{% endblock %}
+
+{% block content %}
+<div class="rec-layout">
+
+  <!-- ── Sidebar / Form ─────────────────────────────────────────────── -->
+  <aside class="rec-sidebar">
+    <div class="sidebar-header">
+      <h2>Your Details</h2>
+      <p>Fill in your preferences to get matched colleges.</p>
+    </div>
+
+    <div class="form-card glass-card" id="rec-form">
+
+      <!-- Cutoff -->
+      <div class="form-group">
+        <label for="cutoff">TNEA Cutoff Mark <span class="req">*</span></label>
+        <div class="input-wrap">
+          <input type="number" id="cutoff" name="cutoff"
+                 min="0" max="200" step="0.5" placeholder="e.g. 175.5"
+                 class="form-input" required />
+          <span class="input-hint">0 – 200</span>
+        </div>
+      </div>
+
+      <!-- Category -->
+      <div class="form-group">
+        <label for="category">Community Category <span class="req">*</span></label>
+        <select id="category" name="category" class="form-input">
+          <option value="OC">OC – Open Competition</option>
+          <option value="BC">BC – Backward Class</option>
+          <option value="BCM">BCM – BC Muslim</option>
+          <option value="MBC/DNC">MBC/DNC – Most Backward Class</option>
+          <option value="SC">SC – Scheduled Caste</option>
+          <option value="SCA">SCA – SC Arunthathiyar</option>
+          <option value="ST">ST – Scheduled Tribe</option>
+        </select>
+      </div>
+
+      <!-- Branch -->
+      <div class="form-group">
+        <label for="branch_code">Preferred Branch</label>
+        <select id="branch_code" name="branch_code" class="form-input">
+          <option value="ANY">Any Branch</option>
+          {% for b in branches %}
+          <option value="{{ b.branch_code }}">{{ b.branch_code }} – {{ b.branch_name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <!-- District -->
+      <div class="form-group">
+        <label for="district">Preferred District</label>
+        <select id="district" name="district" class="form-input">
+          <option value="ANY">Any District</option>
+          {% for d in districts %}
+          <option value="{{ d }}">{{ d }}</option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <!-- College Type -->
+      <div class="form-group">
+        <label>College Type</label>
+        <div class="radio-group">
+          <label class="radio-label">
+            <input type="radio" name="college_type" value="ANY" checked> Any
+          </label>
+          <label class="radio-label">
+            <input type="radio" name="college_type" value="Government"> Government
+          </label>
+          <label class="radio-label">
+            <input type="radio" name="college_type" value="Private"> Private
+          </label>
+        </div>
+      </div>
+
+      <!-- Number of results -->
+      <div class="form-group">
+        <label for="top_n">Max Results: <span id="top_n_val">20</span></label>
+        <input type="range" id="top_n" name="top_n" min="5" max="50" value="20"
+               class="range-input"
+               oninput="document.getElementById('top_n_val').textContent = this.value">
+      </div>
+
+      <button class="btn btn-primary btn-full" onclick="getRecommendations()">
+        <span id="btn-text">Find Colleges →</span>
+      </button>
+    </div>
+  </aside>
+
+  <!-- ── Results Pane ───────────────────────────────────────────────── -->
+  <section class="rec-results" id="results-pane">
+
+    <!-- Empty state -->
+    <div class="empty-state" id="empty-state">
+      <div class="empty-icon">🔍</div>
+      <h3>Your results will appear here</h3>
+      <p>Fill in your details on the left and click <strong>Find Colleges</strong>.</p>
+    </div>
+
+    <!-- Loading -->
+    <div class="loading-state hidden" id="loading-state">
+      <div class="spinner"></div>
+      <p>Analysing 2,700+ cutoff records…</p>
+    </div>
+
+    <!-- Error -->
+    <div class="error-state hidden" id="error-state">
+      <div class="error-icon">⚠️</div>
+      <p id="error-msg">Something went wrong. Please try again.</p>
+    </div>
+
+    <!-- Results header + controls -->
+    <div class="results-header hidden" id="results-header">
+      <div class="results-meta">
+        <h2>Recommendations</h2>
+        <span class="results-count" id="results-count"></span>
+      </div>
+
+      <!-- Sort & Filter toolbar -->
+      <div class="toolbar">
+        <div class="toolbar-group">
+          <label class="toolbar-label">Sort by</label>
+          <select class="toolbar-select" id="sort-select" onchange="applySort()">
+            <option value="chance">Admission Chance</option>
+            <option value="cutoff_desc">Cutoff ↑ (Highest)</option>
+            <option value="cutoff_asc">Cutoff ↓ (Lowest)</option>
+            <option value="fees_asc">Fees ↑ (Cheapest)</option>
+            <option value="fees_desc">Fees ↓ (Costliest)</option>
+            <option value="district">District A–Z</option>
+          </select>
+        </div>
+        <div class="toolbar-group">
+          <label class="toolbar-label">Filter</label>
+          <select class="toolbar-select" id="filter-select" onchange="applySort()">
+            <option value="ALL">All Colleges</option>
+            <option value="Government">Government Only</option>
+            <option value="Private">Private Only</option>
+          </select>
+        </div>
+        <div class="toolbar-group">
+          <label class="toolbar-label">Chance</label>
+          <select class="toolbar-select" id="chance-filter" onchange="applySort()">
+            <option value="ALL">All</option>
+            <option value="Safe">Safe</option>
+            <option value="Target">Target</option>
+            <option value="Dream">Dream</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Cards grid -->
+    <div class="cards-grid" id="cards-grid"></div>
+
+  </section>
+</div>
+
+<!-- ── College Card Template ─────────────────────────────────────────── -->
+<template id="card-template">
+  <div class="college-card glass-card">
+    <div class="card-header">
+      <div class="card-badge-wrap">
+        <span class="card-type-badge"></span>
+        <span class="card-chance-badge"></span>
+      </div>
+      <div class="card-year"></div>
+    </div>
+    <h3 class="card-college-name"></h3>
+    <div class="card-branch">
+      <span class="branch-code"></span>
+      <span class="branch-name"></span>
+    </div>
+    <div class="card-details">
+      <div class="card-detail">
+        <span class="detail-icon">📍</span>
+        <span class="detail-label">District</span>
+        <span class="card-district detail-value"></span>
+      </div>
+      <div class="card-detail">
+        <span class="detail-icon">💰</span>
+        <span class="detail-label">Annual Fees</span>
+        <span class="card-fees detail-value"></span>
+      </div>
+      <div class="card-detail">
+        <span class="detail-icon">📊</span>
+        <span class="detail-label">Closing Cutoff</span>
+        <span class="card-cutoff detail-value"></span>
+      </div>
+      <div class="card-detail">
+        <span class="detail-icon">📈</span>
+        <span class="detail-label">Your Margin</span>
+        <span class="card-margin detail-value"></span>
+      </div>
+    </div>
+  </div>
+</template>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/recommend.js') }}"></script>
+{% endblock %}

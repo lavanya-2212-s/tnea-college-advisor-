@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block title %}TNEA College Advisor – Find Your Perfect College{% endblock %}
+
+{% block content %}
+
+<!-- ── Hero ─────────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-bg">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+  <div class="hero-content">
+    <div class="hero-badge">🏆 Tamil Nadu Engineering Admissions</div>
+    <h1 class="hero-title">
+      Find Your <span class="gradient-text">Dream College</span><br>with AI-Powered Insights
+    </h1>
+    <p class="hero-subtitle">
+      Enter your TNEA cutoff mark and get personalised college recommendations
+      based on 3 years of historical admission data — 362 colleges, 92 branches.
+    </p>
+    <div class="hero-actions">
+      <a href="/recommend" class="btn btn-primary btn-lg">
+        Get Recommendations <span>→</span>
+      </a>
+      <a href="#how-it-works" class="btn btn-ghost btn-lg">How it works</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num">362</span><span class="stat-label">Colleges</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num">92</span><span class="stat-label">Branches</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num">3</span><span class="stat-label">Years Data</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num">7</span><span class="stat-label">Categories</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ── How it works ──────────────────────────────────────────────────── -->
+<section class="section" id="how-it-works">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-eyebrow">Simple Process</span>
+      <h2 class="section-title">How It Works</h2>
+      <p class="section-sub">Three steps to your personalised college list</p>
+    </div>
+    <div class="steps">
+      <div class="step-card glass-card">
+        <div class="step-num">01</div>
+        <div class="step-icon">✏️</div>
+        <h3>Enter Your Details</h3>
+        <p>Input your TNEA cutoff mark, community category, preferred branch and district.</p>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step-card glass-card">
+        <div class="step-num">02</div>
+        <div class="step-icon">🤖</div>
+        <h3>AI Matches Colleges</h3>
+        <p>Our KNN model analyses 2,700+ historical cutoff records to find the best matches.</p>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step-card glass-card">
+        <div class="step-num">03</div>
+        <div class="step-icon">🎯</div>
+        <h3>Get Smart Results</h3>
+        <p>Colleges are ranked as <strong>Safe</strong>, <strong>Target</strong>, or <strong>Dream</strong> based on your cutoff vs. closing marks.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Admission Chance Guide ────────────────────────────────────────── -->
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-eyebrow">Understand Your Chances</span>
+      <h2 class="section-title">Admission Chance Guide</h2>
+    </div>
+    <div class="chance-cards">
+      <div class="chance-card safe glass-card">
+        <div class="chance-badge badge-safe">✅ Safe</div>
+        <h3>Highly Likely</h3>
+        <p>Your cutoff is <strong>5+ marks above</strong> the previous closing cutoff. You have a strong chance of securing this college.</p>
+      </div>
+      <div class="chance-card target glass-card">
+        <div class="chance-badge badge-target">🎯 Target</div>
+        <h3>Competitive</h3>
+        <p>Your cutoff is <strong>within 5 marks</strong> of the closing cutoff. Admission is possible with strong preferences.</p>
+      </div>
+      <div class="chance-card dream glass-card">
+        <div class="chance-badge badge-dream">⭐ Dream</div>
+        <h3>Aspirational</h3>
+        <p>Your cutoff is <strong>slightly below</strong> the closing cutoff. Aim high — cutoffs vary year to year!</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ───────────────────────────────────────────────────────────── -->
+<section class="section cta-section">
+  <div class="container">
+    <div class="cta-card glass-card">
+      <div class="orb orb-cta-1"></div>
+      <div class="orb orb-cta-2"></div>
+      <h2>Ready to Find Your College?</h2>
+      <p>Get your personalised recommendations in seconds — completely free.</p>
+      <a href="/recommend" class="btn btn-primary btn-lg">Start Now →</a>
+    </div>
+  </div>
+</section>
+
+{% endblock %}

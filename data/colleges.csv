@@ -1,0 +1,363 @@
+college_code,college_name,district,college_type,annual_fees
+1,"University Departments of Anna University, Chennai - CEG Campus, Sardar Patel Road, Guindy, Chennai 600 025",Chennai,Government,50000
+2,"University Departments of Anna University, Chennai - ACT Campus, Sardar Patel Road, Guindy, Chennai 600 025",Chennai,Government,50000
+4,"University Departments of Anna University, Chennai - MIT Campus, Chrompet, Tambaram Taluk, Chengalpattu District 600 044",Chengalpattu,Government,50000
+5,"Annamalai University Faculty of Engineering and Technology,Annamalai nagar,Cuddalore",Cuddalore,Private,70000
+1014,"University College of Engineering, Tindivanam, Melpakkam, Tindivanam, Villupuram District 604001",Villupuram,Private,70000
+1015,"University College of Engineering, Arni, Arni to Devikapuram Road, Thatchur, Arni, Thiruvannamalai District 632326",Thiruvannamalai,Private,70000
+1026,"University College of Engineering, Kancheepuram, Ponnerikarai Campus, NH4, Chennai-Bangalore Highway, Karaipettai Village & Post, Kancheepuram District 631552",Kancheepuram,Private,70000
+1106,"Jaya Engineering College, Thirunindravur, Chennai 602024",Chennai,Private,90000
+1107,"Jaya Institute of Technology, Kanchipadi Post, Thiruvallur-Tiruttani NH Road, Thiruvallur District 631204",Thiruvallur,Private,70000
+1113,"R M K Engineering College (Autonomous), Kavaraipettai, Gummidipoondi, Thiruvallur District 601206",Thiruvallur,Private,70000
+1120,"Velammal Engineering College (Autonomous), Ambattur-Redhills Road, Chennai 600066",Chennai,Private,90000
+1128,"R M K College of Engineering and Technology (Autonomous), Puduvoyal, Gummidipoondi Taluk, Thiruvallur District 601206",Thiruvallur,Private,70000
+1202,"D M I College of Engineering, Palanchoor, Nazrethpet, Chennai 602103",Chennai,Private,90000
+1210,"Panimalar Engineering College (Autonomous), Nazarethpet, Poonamallee, Chennai 602123",Chennai,Private,90000
+1211,"Rajalakshmi Engineering College (Autonomous), Thandalam, Sriperumpudur Taluk, Kancheepuram District 602105",Kancheepuram,Private,70000
+1216,"Saveetha Engineering College (Autonomous), Thandalam, Sriperumpudur Taluk, Kancheepuram District 602105",Kancheepuram,Private,70000
+1226,"P T Lee Chengalvaraya Naicker College of Engineering and Technology, Oovery, Veliyur Post, Kancheepuram District 631 502",Kancheepuram,Private,70000
+1230,"Apollo Engineering College, Mevaloorkuppam, Valarpuram Post, Sriperumpudur, Kancheepuram District 602105",Kancheepuram,Private,70000
+1233,"Adhi College of Engineering and Technology, Pazhayaseevaram, Madura Sankarapuram Village, Kancheepuram District 631605",Kancheepuram,Private,70000
+1238,"G R T Institute of Engineering and Technology, GRT Mahalakshmi Nagar, Chennai-Tirupathi Highway, Tiruttani Taluk, Thiruvallur District 631209",Thiruvallur,Private,70000
+1241,"T J S Engineering College, Peruvoyal, Near Kavaraipettai, Gummidipoondi Taluk, Thiruvallur District 601206",Thiruvallur,Private,70000
+1304,"Easwari Engineering College (Autonomous), Ramapuram, Chennai 600089",Chennai,Private,90000
+1306,"Jeppiaar Engineering College, Old Mahabalipuram Road (OMR), Chennai 600119",Chennai,Private,90000
+1311,"K C G College of Technology, Karappakkam, Chennai 600096",Chennai,Private,90000
+1315,"Sri Sivasubramaniya Nadar College of Engineering (Autonomous), Kalavakkam, Old Mahabalipuram Road (OMR), Chengalpattu District 603110",Chengalpattu,Private,70000
+1318,"T.J Institute of Technology, Karapakkam, Chennai - 600097",Chennai,Private,90000
+1321,"Central Institute of Petrochemicals Engineering and Technology (Formerly Central Institute of Plastics Engineering and Technology) (CIPET), Guindy, Chennai 600032",Chennai,Private,90000
+1322,"Dhanalakshmi Srinivasan College of Engineering and Technology, East Coast Road, Poonjeri, Chennai 603104",Chennai,Private,90000
+1325,"St. Joseph College of Engineering, Trinity Campus, Nemili, Sriperumpudur Taluk, Kancheepuram District 602105",Kancheepuram,Government,50000
+1399,"Chennai Institute of Technology, Puduper Village, Nandambakkam Post, Kundrathur, Chennai 600069",Chennai,Private,90000
+1401,"Adhiparasakthi Engineering College, Melmaruvathur, Chengalpattu District 603319",Chengalpattu,Private,70000
+1412,"Mailam Engineering College, Mailam, Villupuram District 604304",Villupuram,Private,70000
+1414,"Prince Shri Venkateshwara Padmavathy Engineering College, Ponmar, Chennai 600048",Chennai,Private,90000
+1416,"Jaya Sakthi Engineering College, Thirunindravur, Chennai 602024",Chennai,Private,90000
+1419,"Sri Sai Ram Enginering College (Autonomous), West Tambaram, Chennai 600044",Chennai,Private,90000
+1420,"Tagore Engineering College, Rathnamangalam, Vandalur Post, Chennai 600048",Chennai,Private,90000
+1421,"V R S College of Engineering and Technology, Arasur, Villupuram District 607107",Villupuram,Private,70000
+1422,"SRM Valliammai Engineering College (Autonomous), Kattankulathur, Chennai 603203",Chennai,Private,90000
+1427,"Sri Krishna Engineering College, Panappakkam, Padappai, Chennai 601301",Chennai,Private,90000
+1430,"Maha Bharathi Engineering College, A Vasudevanur, Chinnasalem, Kallakurichi District 606201",Kallakurichi,Private,70000
+1432,"Rajalakshmi Institute of Technology, Irulapalayam, Kuthampakkam Post, Kancheepuram District, Chennai 600124",Kancheepuram,Private,70000
+1434,"Surya Group of Institutions, GST Road, Vikravandi Village, Villupuram District 605652",Villupuram,Private,70000
+1441,"A K T Memorial College of Engineering and Technology, Neelamangalam Village, Kallakurichi District 606202",Kallakurichi,Private,70000
+1445,"Sri Rangapoopathi College of Engineering, Alampoondi Village, Gingee, Villupuram District 604151",Villupuram,Private,70000
+1449,"Saraswathy College of Engineering and Technology, NH-45, Main Road, Olakkur, Tindivanam Taluk, Villupuram District 604307",Villupuram,Private,70000
+1450,"Loyola ICAM College of Engineering and Technology, Loyola College Campus, Nungambakkam, Chennai 600034",Chennai,Private,90000
+1510,"Priyadarshini Engineering College, Vaniyambadi Post, Thiruppattur District 635751",Thiruppattur,Private,70000
+1516,"Thanthai Periyar Government Institute of Technology, Bagayam, Vellore District 632002",Vellore,Government,50000
+1517,"Thirumalai Engineering College, Kilambi, Kancheepuram District 631551",Kancheepuram,Private,70000
+1518,"Thiruvalluvar College of Engineering and Technology, Vandavasi, Thiruvannamalai District 604505",Thiruvannamalai,Private,70000
+1519,"Bharathidasan Engineering College, Nattrampalli Post, Thiruppathur District 635854",Thiruppathur,Private,70000
+1523,"Global Institute of Engineering and Technology, Bangalore-Chennai Highway, Melvisharam, Walajah Taluk, Ranipet District 632506",Ranipet,Private,70000
+1525,"Podhigai College of Engineering and Technology, Vinayakapuram, Adiyur Post, Tirupattur District 635601",Tirupattur,Private,70000
+2005,"Government College of Technology (Autonomous), Thadagam Road, Coimbatore District 641013",Coimbatore,Government,50000
+2006,"PSG College of Technology (Autonomous), Peelamedu, Coimbatore District 641004",Coimbatore,Private,90000
+2007,"Coimbatore Institute of Technology (Autonomous), Civil Aerodrome Post, Coimbatore District 641014",Coimbatore,Private,90000
+2025,"Anna University Regional Campus - Coimbatore, Maruthamalai Main Road, Navavoor Bharathiyar University Post, Somayampalayam, Coimbatore District 641046",Coimbatore,Government,50000
+2302,"Sri Shanmugha College of Engineering and Technology, Morur Bit II Village, Salem District 637304",Salem,Private,70000
+2327,"N S N College of Engineering and Technology, Karur-Madurai NH7, Manalmedu, Karur District 639003",Karur,Private,70000
+2328,"K S R Institute for Engineering and Technology, Thokkavadi, Namakkal District 637215",Namakkal,Private,70000
+2329,"Rathinam Technical Campus, Pollachi Road, Eachanari, Coimbatore District 641021",Coimbatore,Private,90000
+2338,"Asian College of Engineering and Technology, Asian College Road, Kondayampalayam, Near Saravanampatti, Coimbatore District 641110",Coimbatore,Private,90000
+2341,"Ganesh College of Engineering, Attur Main Road, Mettupatti, Salem District 636111",Salem,Private,70000
+2342,"Sri Ranganathar Institute of Engineering and Technology, Thudialur-Kovilpalay Road, Coimbatore District 641110",Coimbatore,Private,90000
+2345,"Dhirajlal Gandhi College of Technology, Sikkanampatty, (Opp. to Airport), Omalur Taluk, Salem District 636309",Salem,Private,70000
+2346,"Shree Sathyam College of Engineering and Technology, NH-47, Manjakkalpatti, Kuppanur Post, Sankari Taluk, Salem District 637301",Salem,Private,70000
+2347,"AVS College of Technology, Attur Main Road, Near AVS College of Arts & Science, Chinnagoundapuram, Salem District 636106",Salem,Private,70000
+2357,"V S B College of Engineering Technical Campus, Ealur Pirivu, Solavampalayam Post, Coimbatore District 642109",Coimbatore,Private,90000
+2369,"Government College of Engineering, Chettikkarai Post, Dharmapuri District 635704",Dharmapuri,Government,50000
+2377,"PSG Institute of Technology and Applied Research, Avinashi Road, Neelambur, Coimbatore 641062",Coimbatore,Private,90000
+2603,"Government College of Engineering (Autonomous), Bargur, Krishnagiri District 635104",Krishnagiri,Government,50000
+2606,"Jayam College of Engineering and Technology, Nallanur Post, Dharmapuri District 636813",Dharmapuri,Private,70000
+2607,"K S Rangasamy College of Technology (Autonomous), Tiruchengode, Namakkal District 637215",Namakkal,Private,70000
+2608,"M Kumarasamy College of Engineering (Autonomous), Thalavapalayam, Karur District 639113",Karur,Private,70000
+2609,"Mahendra Engineering College (Autonomous), Mahendhirapuri, Mallasamudram, Namakkal District 637503",Namakkal,Private,70000
+2610,"Muthayammal Engineering College (Autonomous), Rasipuram, Namakkal District 637408",Namakkal,Private,70000
+2611,"Paavai Engineering College (Autonomous) , NH-7, Pachal Post, Namakkal District 637018",Namakkal,Private,70000
+2612,"P G P College of Engineering and Technology, Paramathi Post, Namakkal District 637207",Namakkal,Private,70000
+2613,"K S R College of Engineering (Autonomous), Tiruchengode, Namakkal District 637215",Namakkal,Private,70000
+2614,"S S M College of Engineering, Komarapalayam, Namakkal District 638183",Namakkal,Private,70000
+2615,"Government College of Engineering (Autonomous), Karuppur, Salem District 636011",Salem,Government,50000
+2617,"Sengunthar Engineering College (Autonomous), Tiruchengode, Namakkal District 637205",Namakkal,Private,70000
+2618,"Sona College of Technology (Autonomous), Suramangalam Post, Salem District 636005",Salem,Private,70000
+2623,"Mahendra College of Engineering, Attur Road, Minnampalli, Valapady, Salem District 636106",Salem,Private,70000
+2624,"Gnanamani College of Technology, Pachal Post, Namakkal District 637018",Namakkal,Private,70000
+2625,"The Kavery Engineering College, M Kalipatti Post, Mecheri, Salem District 634456",Salem,Private,70000
+2627,"Selvam College of Technology, Pappanaickenpatti Post, Namakkal District 637003",Namakkal,Private,70000
+2630,"Chettinad College of Engineering and Technology, NH-67, Trichy Main Road, Puliyur C F, Karur District 639114",Karur,Private,70000
+2632,"Mahendra Institute of Technology (Autonomous), Mahendhirapuri, Mallasamudram, Namakkal District 637503",Namakkal,Private,70000
+2633,"Vidyaa Vikas College of Engineering and Technology, Varahoorampatti, Tiruchengode, Namakkal District 637 214",Namakkal,Private,70000
+2634,"Excel Engineering College (Autonomous), NH-544, Salem Main Road, Pallakapalayam, Sankari West Post, Komarapalayam Taluk, Namakkal District - 637303",Namakkal,Private,70000
+2635,"CMS College of Engineering, Emapuram Post, Namakkal District 637003",Namakkal,Private,70000
+2636,"A V S Engineering College, Military Road, Ammapet, Salem District 636003",Salem,Private,70000
+2639,"Narasu's Sarathy Institute of Technology, Poosaripatty Village, Omalur Taluk, Salem District 636305",Salem,Private,70000
+2640,"Jayalakshmi Institute of Technology, Thoppur, Dharmapuri District 635352",Dharmapuri,Private,70000
+2641,"Varuvan Vadivelan Institute of Technology, Nallanahalli, Dharmapuri District 636701",Dharmapuri,Private,70000
+2642,"P S V College of Engineeering and Technology, Mittapalli, Balinayanapalli Post, Elathagiri, Krishnagiri District 635108",Krishnagiri,Private,70000
+2646,"Tagore Institute of Engineering and Technology, Deviyakurichi, Attur Taluk, Salem District 636112",Salem,Private,70000
+2647,"J K K Nataraja College of Engineering and Technology, Komarapalayam Amani, Thattankuttai Panchayat, Namakkal District 638183",Namakkal,Private,70000
+2648,"Annapoorana Engineering College (Autonomous), Sankari Main Road, NH-47, Periaseeragapadi, Salem District 636308",Salem,Private,70000
+2650,"Christ The King Engineering College, Cecilia Gardens, Chikkarampalayam Village, Coimbatore District 641104",Coimbatore,Private,90000
+2651,"Jai Shriram Engineering College, Dharapuram Road, Avinashi Palayam, Tiruppur District 638660",Tiruppur,Private,70000
+2652,"AL-Ameen Engineering College (Autonomous), Karundevan Palayam, Nanjai Uthukuli Post, Erode District 638104",Erode,Private,70000
+2653,"Knowledge Institute of Technology, KIOT Campus, Kakapalayam Post, Salem District 637504",Salem,Private,70000
+2656,"Builders Engineering college, Nathakadaiyur, Erode Road, Palayakottai Village, Kangeyam, Tiruppur District 638108",Tiruppur,Private,70000
+2658,"V S A Group of Institutions, NH-47, Uthamasola Puram Post, Salem District 636010",Salem,Private,70000
+2659,"Salem College of Engineering and Technology, Salem-Attur Main Road, NH-68, Mettupatty Perumapalayam, Salem District 636111",Salem,Private,70000
+2661,"Vivekanandha College of Technology for Women, Sathinaickenpalayam, Elayampalayam Village, Kumaramangalam, Namakkal District 637205",Namakkal,Private,70000
+2665,"Mahendra Institute of Engineering and Technology, Mahendrapuri, Mallasamudram, Namakkal District 637503",Namakkal,Private,70000
+2683,"Shreenivasa Engineering College, B Pallipatti, Bommidi, Pappireddipatti Taluk, Dharmapuri District 635301",Dharmapuri,Private,70000
+2702,"Bannari Amman Institute of Technology (Autonomous), Sathyamanagalam, Erode District 638401",Erode,Private,70000
+2704,"Coimbatore Institute of Engineering and Technolgoy (Autonomous), Narasipuram Post, Coimbatore District 641109",Coimbatore,Private,90000
+2706,"Dr. Mahalingam College of Engineering and Technology (Autonomous), Mackinaickenpatti Post, Pollachi Taluk, Coimbatore District 642003",Coimbatore,Private,90000
+2707,"Erode Sengunthar Engineering College (Autonomous), Thudupathi Post, Erode District 638057",Erode,Private,70000
+2708,"Hindusthan College of Engineering and Technology (Autonomous), Othakkalmandapam Post, Coimbatore District 641032",Coimbatore,Private,90000
+2709,"Government College of Engineering (Formerly Institute of Road and Transport Technology), Vasavi College Post, Erode District 638316",Erode,Government,50000
+2710,"Karpagam College of Engineering (Autonomous), Othakkalmandapam, Coimbatore District 641032",Coimbatore,Private,90000
+2711,"Kongu Engineering College (Autonomous), Perundurai, Erode District 638052",Erode,Private,70000
+2712,"Kumaraguru College of Technology (Autonomous), Chinnavedampatti Post, Coimbatore District 641006",Coimbatore,Private,90000
+2713,"M P Nachimuthu M Jaganathan Engineering College, Chennimalai, Erode District 638112",Erode,Private,70000
+2715,"Nandha Engineering College (Autonomous), Pitchandampalayam Post, Erode District 638052",Erode,Private,70000
+2718,"Sri Krishna College of Enginering and Technology (Autonomous) , Kuniamuthur, Coimbatore District 641008",Coimbatore,Private,90000
+2719,"Sri Ramakrishna Engineering College (Autonomous), Vattamalaipalayam, Coimbatore District 641022",Coimbatore,Private,90000
+2721,"Tamilnadu College of Engineering, Karumathampatti Post, Coimbatore District 641659",Coimbatore,Private,90000
+2722,"Sri Krishna College of Technology (Autonomous) , Kovaipudur Post, Coimbatore District 641042",Coimbatore,Private,90000
+2723,"Velalar College of Engineering and Technology (Autonomous), Thindal Post, Erode District 638012",Erode,Private,70000
+2725,"Sri Ramakrishna Institute of Technology (Autonomous), Pachapalayam, Coimbatore District 641010",Coimbatore,Private,90000
+2726,"SNS College of Technology (Autonomous), Kalappatti Post, Coimbatore District 641035",Coimbatore,Private,90000
+2727,"Sri Shakthi Institute of Engineering and Technology (Autonomous), L&T Bye-Pass, Venkitapuram Post, Comibatore District 641062",Comibatore,Private,70000
+2729,"Nehru Institute of Engineering and Technology, Thirumalayampalayam Post, Coimbatore District 641105",Coimbatore,Private,90000
+2731,"R V S College of Engineering and Technology, Kannampalayam, Sulur, Coimbatore District 641402",Coimbatore,Private,90000
+2735,"Karpagam Institute of Technology, Seerapalayam Village, L&T By pass Road, Coimbatore District 641021",Coimbatore,Private,90000
+2736,"Dr. N G P Institute of Technology, Kalapatti Road, Coimbatore District 641035",Coimbatore,Private,90000
+2737,"Sri Sai Ranganathan Engineering College, Zahirnaickenpalayam Village, Viraliyur Post, Thondamuthur Via, Coimbatore District 641109",Coimbatore,Private,90000
+2739,"Sri Eshwar College of Engineering (Autonomous), Kondampatti Post, Vadasithur (Via), Kinathukadavu, Coimbatore District 641202",Coimbatore,Private,90000
+2741,"P A College of Engineering and Technology (Autonomous), Palladam Road, Pollachi, Coimbatore District 642002",Coimbatore,Private,90000
+2743,"Dhanalakshmi Srinivasan College of Engineering (CBE), NH47, Palakkad Main Road, Navakkarai Post, Near Nandhi Temple, Coimbatore District 641105",Coimbatore,Private,90000
+2745,"Kathir College of Engineering, Neelambur, Avinashi Road, Coimbatore District 641062",Coimbatore,Private,90000
+2747,"Shree Venkateshwara Hi-Tech Engineering College, Othakuthirai, K Mettupalayam Post, Gobichettipalayam, Erode District 638455",Erode,Private,70000
+2748,"Surya Engineering College, Mettukadai, Kathirampatti Post, Erode District 638107",Erode,Private,70000
+2749,"Easa College of Engineering and Technology, NH- 47, Coimbatore-Palakkad Main Road, Navakarai Post, Coimbatore District 641105",Coimbatore,Private,90000
+2750,"KIT - Kalaignar Karunanidhi Institute of Technology (Autonomous), Kannampalayam, Coimbatore District 641402",Coimbatore,Private,90000
+2751,"KGISL Institute of Technology, KGISL Campus, Thudiyalur Road, Saravanampatti, Coimbatore District 641035",Coimbatore,Private,90000
+2752,"Nandha College of Technology, Pitchandampalayam Post, Erode District 638052",Erode,Private,70000
+2753,"PPG Institute of Technology, Vilankurichi Village, Coimbatore District 641035",Coimbatore,Private,90000
+2758,"J K K Munirajah College of Technology, T N Palayam, Gobi Taluk, Erode District 638506",Erode,Private,70000
+2761,"United Institute of Technology, Gadalore Village, Perianaickenpalayam, Coimbatore District 641020",Coimbatore,Government,50000
+2762,"Jansons Institute of Technology, Karumathampatty, Somaur, Coimbatore District 641659",Coimbatore,Private,90000
+2764,"K P R Institute of Engineering and Technology (Autonomous), Kollupalayam Village, Arasur Panchayat, Coimbatore District 641407",Coimbatore,Private,90000
+2770,"Studyworld College of Engineering, Madukarai Post, Coimbatore - 641 105.",Coimbatore,Private,90000
+2772,"C M S College of Engineering and Technology, Appachigoundenpathy, Kumittipathi Post, Coimbatore District 641032",Coimbatore,Private,90000
+2776,"R V S Technical Campus-Coimbatore, Kumaran Kottam Campus, Kannampalayam, Sulur, Coimbatore District 641 402",Coimbatore,Private,90000
+3011,"University College of Engineering, Tiruchirappalli, (Bharathidasan Institute of Technology), Tiruchirappalli District 620024",Tiruchirappalli,Private,90000
+3016,"University College of Engineering, Ariyalur, Kathankudikadu Village, Thelur Post, Ariyalur District 621704",Ariyalur,Private,70000
+3018,"University College of Engineering, Thirukkuvalai, Nagappattinam District 610204",Nagappattinam,Private,70000
+3019,"University College of Engineering, Panruti, Chennai- Kumbakonam Highway, Panikkankuppam, Panruti, Cuddalore District 607106",Cuddalore,Private,70000
+3021,"University College of Engineering, Pattukkottai, ECR Road, Rajamadam, Pattukkottai Taluk, Thanjavur District 614701",Thanjavur,Private,70000
+3410,"Krishnasamy College of Engineering and Technology, S Kumarapuram, Cuddalore District 607109",Cuddalore,Private,70000
+3425,"C K College of Engineering and Technology, Chellangkuppam, Cuddalore District 607003",Cuddalore,Private,70000
+3454,"Sri Ramakrishna College of Engineering, Sri Saradha Nagar, NH-45, Perambalur District 621113",Perambalur,Private,70000
+3456,"K S K College of Engineering and Technology, Thanjavur Main Road, Darasuram, Kumbakonam, Thanjavur District 612702",Thanjavur,Private,70000
+3461,"Arifa Institute of Technology(Formly Haji sheik Ismail Engineering College), Esanoor, Keelaiyur Post, Thirukkuvalai Taluk, Nagapattinam District 611103",Nagapattinam,Private,70000
+3462,"Ariyalur Engineering College, NH-227, Trichy- Chithambaram NH, Karuppur-Senapathy Post, Ariyalur District 621707",Ariyalur,Private,70000
+3464,"Government College of Engineering, Gandarvakottai Road, Sengipatti, Thanjavur District 613402",Thanjavur,Government,50000
+3465,"Government College of Engineering, Srirangam, Sethurappatti, Tiruchirappalli District 620012",Tiruchirappalli,Government,50000
+3466,"Nelliandavar Institute of Technology, Nerunjikorai Village, Pudhupalayam, Ariyalur Taluk, Ariyalur District 621704",Ariyalur,Private,70000
+3760,"Sir Issac Newton College of Engineering and Technology, Anthanapeetai Post, Papakoil, Nagappattinam District 611102",Nagappattinam,Private,70000
+3766,"Star Lion College of Engineering and Technology, Manankorai Main Road, Manankorai Village, Thanjavur District 614206",Thanjavur,Private,70000
+3786,"M.A.M. School of Engineering, Siruganur, Tiruchirappalli District 621105",Tiruchirappalli,Private,90000
+3801,"A V C College of Engineering, Mannampandal Post, MayiladuthuraiDistrict 609305",Tamil Nadu,Private,70000
+3804,"Arasu Engineering College, Chennai Main Road, Kumbakonam, Thanjavur District 612501",Thanjavur,Private,70000
+3805,"Dhanalakshmi Srinivasan Engineering College (Autonomous), Thuraiyur Road, Perambalur District 621212",Perambalur,Private,70000
+3806,"E G S Pillay Engineering College (Autonomous), Nagapattinam District 611002",Nagapattinam,Private,70000
+3810,"M.A.M. College of Engineering, Siruganur, Tiruchirappalli District 621105",Tiruchirappalli,Private,90000
+3813,"Oxford Engineering College,Karumandapam,Pirattiyur,Trichy-620 009",Tiruchirappalli,Private,90000
+3815,"Pavendar Bharathidasan College of Engineering and Technology, Pudukkottai Main Road, Tiruchirappalli District 622515",Tiruchirappalli,Private,90000
+3817,"Roever Engineering College, Elambalur, Perambalur District 621212",Perambalur,Private,70000
+3819,"Saranathan College of Engineering, Panjappur, Tiruchirappalli District 620012",Tiruchirappalli,Private,90000
+3821,"A R J College of Engineering and Technology, Mannargudi Taluk, Thiruvarur District 614001",Thiruvarur,Private,70000
+3825,"St. Joseph's College of Engineering and Technology, Elupatti Village, Rawaspatti Post, Thanjavur District 613403",Thanjavur,Private,70000
+3826,"Kongunadu College of Engineering and Technology (Autonomous), Tholurpatti, Thottiyam, Tiruchirappalli District 621215",Tiruchirappalli,Private,90000
+3829,"M.A.M. College of Engineering and Technology, Trichy-Chennai Trunk Road, Siruganur, Tiruchirappalli District 621105",Tiruchirappalli,Private,90000
+3843,"M R K Institute of Technology, Nattarmangalam Village, Kattumannarkoil, Cuddalore District 608306",Cuddalore,Private,70000
+3844,"Shivani Engineering College, Trichy-Dindigul NH Road, Poolangulathupatti, Tiruchirappalli - 620009",Tiruchirappalli,Private,90000
+3846,"Mother Terasa College of Engineering and Technology, Mettusalai Post and Taluk, Pudukkottai District 622102",Pudukkottai,Private,70000
+3849,"Annai College of Engineering and Technology, Anakudi Road, Kovilacheri, Kumbakonam, Thanjavur District 612503",Thanjavur,Private,70000
+3854,"Mahath Amma Institute of Engineering and Technology (MIET), Ariyur, Annavasal Road, Illupur Taluk, Pudukkottai District 622101",Pudukkottai,Private,70000
+3855,"As-Salam College of Engineering and Technology, Thirumangalakudi, Aduthurai, Thiruvidaimaruthur, Thanjavur District 612102",Thanjavur,Private,70000
+3857,"Meenakshi Ramaswamy Engineering College, Trichy Main Road, Thathanur, Udayarpalayam, Ariyalur District 621804",Ariyalur,Private,70000
+3860,"St. Anne's College of Engineering and Technology, Anguchettypalayam, Siruvathur Post, Panruti, Cuddalore District 607110",Cuddalore,Private,70000
+3905,"Kings College of Engineering, Punalkulam, Pudukkottai District 613303",Pudukkottai,Private,70000
+3918,"Shanmuganathan Engineering College, Pillivalam Post, Pudukkottai District 622507",Pudukkottai,Private,70000
+3920,"Sudharsan Engineering College, Sathiyamangalam Post, Pudukkottai District 622501",Pudukkottai,Private,70000
+3926,"Chendhuran College of Engineering and Technology, Madurai Road, Lenavilakku, Pilivalam Post, Pudukkottai - 622 507",Madurai,Private,90000
+4020,"Anna University Regional Campus - Tirunelveli, Trivandrum Road, Palayamkottai, Tirunelveli District 627007",Tirunelveli,Government,50000
+4023,"University College of Engineering, Nagercoil, Nagercoil Industrial Estate, Konam, Kanyakumari District 629004",Kanyakumari,Private,70000
+4024,"University V.O.C. College of Engineering, Thoothukudi, Near V.O.C. College, Millerpuram, Thoothukudi District 628008",Thoothukudi,Private,70000
+4669,"Thamirabharani Engineering College, Chathirampudukulam Village, Thatchanallur, Tirunelveli District 627358",Tirunelveli,Private,70000
+4670,"Rohini College of Engineering & Technology, Anjugramam-Kanyakumari Main Road, Palkulam, Variyoor Post, Kanyakumari District 629401",Kanyakumari,Private,70000
+4672,"Stella Mary's College of Engineering, Arunthengan Vilai, Azhikal Post, Kanyakumari District 629202",Kanyakumari,Private,70000
+4675,"Universal College of Engineering and Technology, Anbagam Campus, Radhapuram Road, Vallioor, Tirunelveli District 627117",Tirunelveli,Private,70000
+4677,"Lourdes Mount College of Engineering and Technology, Marthandam-Karungal Road, Chundavilai, Mullanganavilai, Nattalam Post, Kanyakumari District 629195",Kanyakumari,Private,70000
+4678,"Ramco Institute of Technology, North venganallur Village, Krishnapuram Panchayat, Rajapalayam, Virudhunagar District 626117",Virudhunagar,Private,70000
+4680,"AAA College of Engineering and Technology, Kamarajar Educational Road, Amathur Village, Sivakasi, Virudhunagar District 626005",Virudhunagar,Private,70000
+4686,"Good Shepherd College of Engineering and Technology, Maruthamparai, Kanyakumari District 629101",Kanyakumari,Private,70000
+4864,"V V College of Engineering, Arasoor Village, Idaichivilai Post, Santhakulam Taluk, Thoothukudi District 628656",Thoothukudi,Private,70000
+4917,"Sethu Institute of Technology (Autonomous), Kariapatti Post, Virudhunagar District 626115",Virudhunagar,Private,70000
+4928,"MAR Ephraem College of Engineering & Technology, Malankara Hills, Elavuvillai, Marthandam, Kanyakumari District 629171",Kanyakumari,Private,70000
+4929,"M E T Engineering College, Mogals Garden, Thovalai Village, Aralvaimozhi Town Panchayat, Thovalai, Kanyakumari District 629304",Kanyakumari,Private,70000
+4933,"St. Mother Theresa Engineering College, Vagaikulam, Thoothukudi District 628102",Thoothukudi,Private,70000
+4934,"Holy Cross Engineering College, Vagaikulam, Sri Mulakarai, Srivaikuntam, Thoothukudi District 628851",Thoothukudi,Private,70000
+4941,"Unnamalai Institute of Technology, Ayyaneri, Kovilpatti, Thoothukudi District 628502",Thoothukudi,Private,70000
+4946,"D M I Engineering College, Aralvaimozhi Village, Thovalai, Kanyakumari District 629301",Kanyakumari,Private,70000
+4948,"Rajas Institute of Technology , Ozhuginasery, Nagercoil, Kanyakumari District 629001",Kanyakumari,Private,70000
+4949,"PSN Institute of Technology and Science,Melathediyoor, Tirunelveli-627 152",Tirunelveli,Private,70000
+4952,"C S I Institute of Technology, Thovalai, Kanyakumari District 629302",Kanyakumari,Private,70000
+4953,"CAPE Institute of Technology, Levingipuram, Tirunelveli District 627114",Tirunelveli,Private,70000
+4955,"Francis Xavier Engineering College (Autonomous), Vannarpettai, Tirunelveli District 627003",Tirunelveli,Private,70000
+4957,"Jayaraj Annapackiam CSI College of Engineering, Nazareth, Thoothukudi District 628617",Thoothukudi,Private,70000
+4960,"Mepco Schlenk Engineering College (Autonomous), Sivakasi, Virudhunagar District 626005",Virudhunagar,Private,70000
+4961,"Nellai College of Engineering (Formerly National College of Engineering), Maruthakulam Post, Tirunelveli District 627151",Tirunelveli,Private,70000
+4962,"National Engineering College (Autonomous), Kovilpatti, Thoothukudi District 628503",Thoothukudi,Private,70000
+4964,"PSN College of Engineering and Technology (Autonomous),Melathediyoor, Tirunelveli-627 152",Tirunelveli,Private,70000
+4965,"P S R Engineering College (Autonomous), Appayanaickenpatti, Sevalpatty, Virudhunagar District 626140",Virudhunagar,Private,70000
+4967,"S Veerasamy Chettiar College of Engineering and Technology, Puliangudi Post, Tenkasi District 627855",Tenkasi,Private,70000
+4968,"Sardar Raja College of Engineering, Alangulam, Tenkasi District 627808",Tenkasi,Private,70000
+4969,"SCAD College of Engineering and Technology, Cheranmahadevi, Tirunelveli District 627414",Tirunelveli,Private,70000
+4970,"Sree Sowdambika College of Engineering, Aruppukkottai Taluk, Virudhunagar District 626134",Virudhunagar,Private,70000
+4971,"St. Xavier's Catholic College of Engineering, Chunkankadai, Nagercoil, Kanyakumari District 629807",Kanyakumari,Private,70000
+4972,"AMRITA College of Engineering and Technology, Erachakulam Post, Kanyakumari District 629902",Kanyakumari,Private,70000
+4974,"Government College of Engineering, Tirunelveli District 627007",Tirunelveli,Government,50000
+4975,"Dr. G U Pope College of Engineering, Sawyerpuram, Thoothukudi District 628251",Thoothukudi,Private,70000
+4977,"Narayanaguru College of Engineering, Manjalumoodu, Kanyakumari District 629151",Kanyakumari,Private,70000
+4978,"Udaya School of Engineering, Ammandivilai Post, Kanyakumari District 629204",Kanyakumari,Private,70000
+4980,"Einstein College of Engineering, Seethaparpanallur, Tirunelveli District 627012",Tirunelveli,Private,70000
+4981,"Ponjesly College of Engineering, Vettornimadam Post, Nagercoil, Kanyakumari District 629003",Kanyakumari,Private,70000
+4982,"Vins Christian College of Engineering, Chunkankadai Post, Nagercoil, Kanyakumari District 629807",Kanyakumari,Private,70000
+4984,"Marthandam College of Engineering & Technology, Kuttakuzhi, Veeyanoor Post, Kanyakumari District 629177",Kanyakumari,Private,70000
+4989,"PSN Engineering College, Melathediyoor, Tirunelveli District 627152",Tirunelveli,Private,70000
+4992,"Bethlahem Institute of Engineering, Karungal, Kanyakumari District 629157",Kanyakumari,Private,70000
+4993,"Loyola Institute of Technology and Science, Loyola Nagar, P B No.2, Thovalai, Kanyakumari District 629302",Kanyakumari,Private,70000
+4994,"J P College of Engineering, College Road, Ayakudy, Tenkasi Taluk, Tenkasi District 627852",Tenkasi,Private,70000
+4995,"P.S.R.R College of Engineering, Appayanaickenpatti, Sevalpatti, Virudhunagar District 626140",Virudhunagar,Private,70000
+4996,"Sri Vidya College of Engineering and Technology, Sivakasi Main Road, P Kumaralinapuram, Virudhunagar District 626005",Virudhunagar,Private,70000
+4999,"Annai Vailankanni College of Engineering, Pothaiyadi Salai, Pottalkulam, Azhagappapuram, Kanyakumari District 629401",Kanyakumari,Private,70000
+5008,"Thiagarajar College of Engineering (Autonomous),Tirupparankundram, Madurai District 625015",Madurai,Private,90000
+5009,"Government College of Engineering, Melachokkanathapuram, Bodinayakkanur, Theni District 625582",Theni,Government,50000
+5010,"Anna University Regional Campus - Madurai, Kanyakumari National Highway, Keelakuilkudi, Madurai District 625019",Madurai,Government,50000
+5017,"University College of Engineering, Ramanathapuram, Pullangudi, Ramanathapuram District 623513",Ramanathapuram,Private,70000
+5022,"University College of Engineering, Dindigul, Mangarai Pirivu, Reddiyarchathiram, Dindigul District 624622",Dindigul,Private,70000
+5530,"SSM Institute of Engineering and Technology, Kuttathupatti Village, Sindalaigundu Post, Dindigul District 624002",Dindigul,Private,70000
+5533,"Karaikudi Institute of Technology and Karaikudi Institute of Management, KIT & KIM Technical Campus, Keeranipatti, Thalakkuvur, Karaikudi, Sivagangai District 630307",Sivagangai,Private,70000
+5536,"Mangayarkarasi College of Engineering, First Street, Mangayarkarasi Nagar, Paravai, Madurai District 625402",Madurai,Private,90000
+5703,"Christian College of Engineering and Technology, Oddanchatram, Dindigul District 624619",Dindigul,Private,70000
+5832,"N P R College of Engineering and Technology, Natham, Dindigul District 624401",Dindigul,Private,70000
+5862,"R V S Educational Trust’s Groups of Institutions (Integrated Campus), N Paraipatti Post, Vedasandur Taluk, Dindigul District 624005",Dindigul,Private,70000
+5865,"Nadar Saraswathi College of Engineering and Technology, Vadupudupatti, Annanji Post, Theni District 625531",Theni,Private,70000
+5901,"Alagappa Chettair Government College of Engineering and Technology (Autonomous), Karaikudi, Sivagangai District 630004",Sivagangai,Government,50000
+5902,"Bharath Niketan Engineering College, Thimmarasanaickanoor, Aundipatti, Theni District 625536",Theni,Private,70000
+5904,"K L N College of Engineering (Autonomous), Pottapalayam, Sivagangai District 630611",Sivagangai,Private,70000
+5907,"Mohamed Sathak Engineering College, Kilakarai, Ramanathapuram District 623806",Ramanathapuram,Private,70000
+5910,"P S N A Colllege of Engineering and Technology, Dindigul District 624622",Dindigul,Private,70000
+5913,"R V S College of Engineering, N Paraipatti Post, Dindigul District 624005",Dindigul,Private,70000
+5914,"Solamalai College of Engineering, Veerapanjan, Madurai District 625020",Madurai,Private,90000
+5915,"SACS-M A V M M Engineering College, Kidaripatty Post, Madurai District 625301",Madurai,Private,90000
+5919,"St. Michael College of Engineering and Technology, Kalayarkoil, Sivagangai District 630551",Sivagangai,Private,70000
+5930,"SBM College of Engineering and Technology, Thamaraipady, T N Paraipatti Pirivu, Dindigul District 624005",Dindigul,Private,70000
+5935,"Fatima Michael College of Engineering and Technology, Sengottai Village, Sivagangai Main Road, Madurai District 625020",Madurai,Private,90000
+5942,"Ultra College of Engineering and Technology, Kodikulam, 1 Bit Village, Madurai-Chennai Highway, Madurai District 625104",Madurai,Private,90000
+5986,"Velammal College of Engineering and Technology, Madurai District 625009",Madurai,Private,90000
+5988,"Theni Kammavar Sangam College of Technology, Theni Main Road, Koduvillarpatti Post, Theni District 625534",Theni,Private,70000
+5990,"Latha Mathavan Engineering College, Kidaripatti Post, Alagarkoil (Via), Melur Taluk, Madurai District 625301",Madurai,Private,90000
+1013,University College of Engineering Villupuram Kakuppam Villupuram District 605103,Villupuram Kakuppam Villupuram,Private,70000
+1110,Prathyusha Engineering college (Autonomous) Aranvoyalkuppam Thiruvallur District 602025,Aranvoyalkuppam Thiruvallur,Private,70000
+1112,R M D Engineering College (Autonomous) Kavaraipettai Gummidipoondi Thiruvallur District 601206,Ettai Gummidipoondi Thiruvallur,Private,70000
+1114,S A Engineering College (Autonomous) Thiruverkadu Chennai 600077,Chennai,Private,90000
+1116,Sri Venkateswara College of Engineering and Technology Thirupachur Thiruvallur District 631203,Hnology Thirupachur Thiruvallur,Private,70000
+1118,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous) Avadi-Alamathi Road Chennai 600 062,Chennai,Private,90000
+1122,Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous) Avadi-Alamathi Road Chennai 600 062,Chennai,Private,90000
+1123,Gojan School of Business and Technology Alamathi Chennai 600062,Chennai,Private,90000
+1125,PMR Engineering College Adayalampattu Chennai-600095,Chennai,Private,90000
+1133,Annai Veilankannis College of Engineering Gandhi Road Nedungundram Chennai 600048,Chennai,Private,90000
+1137,Annai Mira College of Engineering and Technology Arcot Road Arappakkam Village Walaja Taulk Ranipet District 632 517,Am,Private,70000
+1149,St. Joseph's Institute of Technology (Autonomous) Jeppiaar Nagar Old Mahabalipuram Road (OMR) Chennai 600119,Chennai,Private,90000
+1207,Kings Engineering College Sriperumpudur Taluk Kancheepuram District 602105,Riperumpudur,Private,70000
+1212,Rajiv Gandhi College of Engineering Nemili Sriperumpudur Taluk Kancheepuram District 602105,Riperumpudur,Private,70000
+1219,Sri Venkateswara College of Engineering (Autonomous) Post Bag No.1 Chennai- Bengaluru High Road Pennalur Irungattukottai S.O. Sriperumbudur Taluk Kancheepuram District 602105,Riperumbudur,Private,70000
+1221,Jaya College of Engineering and Technology Parivakkam Poonamallee Chennai 600056,Chennai,Private,90000
+1222,P B College of Engineering Irungkattukottai Sriperumpudur Taluk Kancheepuram District 602117,Riperumpudur,Private,70000
+1225,Loyola Institute of Technology Mevaloorkuppam B Village Palanchoor Nazarethpet Post Chennai 600123,Chennai,Private,90000
+1237,Velammal Institute of Technology Chennai- Kolkatta Highway Panchetti Village Ponneri Taluk Thiruvallur District 601204,Llage Ponneri,Private,70000
+1243,Madha Institute of Engineering and Technology Erandamkattalai Village Sadhananthapuram Thandalam Post Chennai 602101,Chennai,Private,90000
+1309,Meenakshi Sundararajan Engineering College Kodambakkam Chennai 600024,Chennai,Private,90000
+1317,St. Joseph's College of Engineering (Autonomous) Old Mahabalipuram Road (OMR) Chennai 600 119,Chennai,Private,90000
+1398,Chennai Institute of Technology and Applied Research Sarathy Nagar Puthuper Village Kundrathur Chennai 600069,Chennai,Private,90000
+1408,I F E T College of Engineering (Autonomous) Gangarampalayam Villupuram District 605108,Gangarampalayam Villupuram,Private,70000
+1437,Rrase College of Engineering Padappai Kancheepuram 601301,Tamil Nadu,Private,70000
+1442,Prince Dr. K Vasudevan College of Engineering and Technology Medavakkam- Mambakkam Road Ponmar Chennai 600127,Chennai,Private,90000
+1507,Ganadipathy Tulsiï¿½s Jain Engineering College Kaniyambadi Vellore District 632102,Ing College Kaniyambadi Vellore,Private,70000
+1509,Meenakshi College of Engineering Vembuliamman Koil Street K K Nagar (West) Chennai 600078,Chennai,Private,90000
+1526,Sri Krishna College of Engineering Tiruttani High Road Arakkonam Ranipet District 631003,Ani High Road Arakkonam Ranipet,Private,70000
+1529,Oxford College of Engineering Venmani Village Karaipoondi Post Polur Taluk Thiruvannamalai District 606803,Ost Polur,Private,70000
+2332,Aishwarya College of Engineering and Technology Errattaikaradu Paruvachi Post Anthiyur (Via) Bhavani Taluk Erode District 638312,Bhavani,Private,70000
+2354,Pollachi Institute of Engineering and Technology Main Road Poosaripatti Pollachi Taluk Coimbatore District 642205,Coimbatore,Private,90000
+2360,Suguna College of Engineering Kalappatti Road Civil Aerodrome Post Coimbatore District 641014,Coimbatore,Private,90000
+2367,Arjun College of Technology Chettiyakkapalayam Kinathukadavu Coimbatore District 642120,Coimbatore,Private,90000
+2601,Adhiyamaan College of Engineering (Autonomous) Hosur Krishnagiri District 635109,Hosur Krishnagiri,Private,70000
+2621,Er. Perumal Manimekalai College of Engineering (Autonomous) Near Koneripalli Hosur Krishnagiri District 635117,R Koneripalli Hosur Krishnagiri,Private,70000
+2622,V S B Engineering College(Autonomous) Kovai Road Karur District 639111,Kovai Road Karur,Private,70000
+2628,Paavai College of Engineering NH-7 Pachal Post Namakkal District 637018,7 Pachal,Private,70000
+2673,Sree Sakthi Engineering College Bettathapuram Bilichi Village Karamadai Coimbatore District 641104,Coimbatore,Private,90000
+2732,Info Institute of Engineering Sarkar Samakulam Coimbatore District 641107,Coimbatore,Private,90000
+2734,SNS College of Engineering (Autonomous) Sathy Main Road Kurumbapalayam Post Coimbatore District 641107,Coimbatore,Private,90000
+2744,Adithya Institute of Technology Kurumbapalayam Village Coimbatore District 641107,Coimbatore,Private,90000
+2755,Nehru Institute of Technology (Autonomous) Thirumalayampalayam Post Coimbatore District 641105,Coimbatore,Private,90000
+2763,Akshaya College of Engineering and Technology Kinathukadavu Coimbatore District 642109,Coimbatore,Private,90000
+2769,J C T College of Engineering and Technology Pichanur Coimbatore District 641105,Coimbatore,Private,90000
+3701,K Ramakrishnan College of Technology (Autonomous) Kariyamanickam Road Samayapuram Manachanallur Taluk Tiruchirappalli District 621112,Chanallur,Private,70000
+3782,OASYS Institute of Technology Pulivalam Village Musiri Taluk Tiruchirappalli District 621006,Ge Musiri,Private,70000
+3795,SRM TRP Engineering College Irungalur Manachanallur Taluk Tiruchirappalli District 621105,Chanallur,Private,70000
+3803,Anjalai Ammal Mahalingam Engineering College Kovilvenni Thiruvarur District 614403,G College Kovilvenni Thiruvarur,Private,70000
+3812,Mookambigai College of Engineering Keeranur Pudukkottai District 622502,Ngineering Keeranur Pudukkottai,Private,70000
+3830,K Ramakrishnan College of Engineering (Autonomous) Kariyamanickam Road Samayapuram Manachanallur Taluk Tiruchirappalli District 621112,Chanallur,Private,70000
+3841,CARE College of Engineering Thayanoor Village Kuttappatti Srirangam Taluk Tiruchirappalli District 620009,Srirangam,Private,70000
+3845,Imayam College of Engineering Kannanur Thuraiyur Tiruchirappalli District 621206,Nanur Thuraiyur Tiruchirappalli,Private,70000
+4676,Renganayagi Varatharaj College of Engineering Salvarpatti Sivakasi Virudhunagar District 626128,Lvarpatti Sivakasi Virudhunagar,Private,70000
+4927,Maria College of Engineering and Technology Attoor Puliyamoodu Junction Thiruvattar Post Kanyakumari District 629177,On Thiruvattar,Private,70000
+4931,Grace College of Engineering Chandy Nagar Mullakkadu Thoothukudi District 628005,Dy Nagar Mullakkadu Thoothukudi,Private,70000
+4938,Sivaji College of Engineering and Technology Manivilla Palulai Panchayat Vilavancode Kanyakumari District 629171,Nchayat Vilavancode Kanyakumari,Private,70000
+4956,Jayamatha Engineering College Aralvaimozhi Kanyakumari District,Ollege Aralvaimozhi Kanyakumari,Private,70000
+4959,Kamaraj College of Engineering and Technology (Autonomous) Virudhunagar District 626001,Virudhunagar,Private,70000
+4966,PET Engineering College Vallioor Post Tirunelveli District 627117,Llege Vallioor,Private,70000
+4976,Infant Jesus College of Engineering Thoothukudi Highway (NH7/A) Thoothukudi District 628851,Thoothukudi,Private,70000
+4983,Lord Jegannath College of Engineering and Technology Kumarapuram Thoppur Post Kanyakumari District 629402,Apuram Thoppur,Private,70000
+4986,"Noorul Islam College of Engineering and Technology, No.10/47, Haji Manzil Main Road, Thuckalay, Kanyakumari 629175",Kanyakumari,Private,70000
+5012,Central Electrochemical Research Institute CECRI) Karaikudi Sivagangai District 630006,Karaikudi Sivagangai,Private,70000
+5912,Pandian Saraswathi Yadav Engineering College Thirumansolai Post Sivagangai District 630 561,E Thirumansolai,Private,70000
+1115,"SriRam Engineering College, Perumalpattu, Veppampattu R.S., Tiruvallur District, Chennai- 602024.",Tiruvallur,Private,70000
+1229,"Indira Institute of Engineering and Technology, No.1, V.G.R Nagar, V.G.R Gardens, Pandur, Thiruvallur -631203.",Tamil Nadu,Private,70000
+1232,"ARM College of Engineering and Technology, Sattamangalam,Maraimalainagar Post, Chengalpattu Taluk, Kanchipuram Dist-603209.",Chengalpattu,Private,70000
+1303,"Anand Institute of Higher Technology, Kalasalingam Nagar, Old Mahabalipuram Road, Kazhipattur Village, Chengalpattu Taluk, Kancheepuram District-603103.",Kancheepuram,Private,70000
+1324,"Sri Sai Ram Institute of Technology (Autonomous), Sai Leo Nagar, Dharkast Road, West Tambaram, Kanchipuram, Chennai-600044.",Chennai,Private,90000
+1402,"Annai Teresa College of Engineering, Thirunavalur, Ulundurpet Taluk, Villupuram District-607204.",Villupuram,Private,70000
+1444,"R.M.Engineering College (formerly Chendu College of Engineering and Technology), Zamin Endathur Village, Madurantakam, Kanchipuram- 603311.",Tamil Nadu,Private,70000
+1452,"PERI Institute of Technology (Autonomous), Mannivakkam,Tambaram, Kancheepuram, Chennai-600048.",Chennai,Private,90000
+1511,"RANIPPETTAI ENGINEERING COLLEGE, THENKADAPPANTHANGAL, VELLORE DISTRICT 632513",Vellore,Private,70000
+1512,"S.K.P. Engineering College, Chinnkangiyanur, Somasipadi Post, Tiruvannamalai District- 606611.",Tiruvannamalai,Private,70000
+2343,Indian Institute of Handloom Technology Foulke's Compound Thillai Nagar Salem District 636001,S Compound Thillai Nagar Salem,Private,70000
+2349,"Dhaanish Ahmed Institute of Technology, Pitchanur Village, Coimbatore-641018.",Coimbatore,Private,90000
+2716,"Park College of Engineering and Technology, Avinashi Road (NH-47), Kaniyur,Coimbatore- 641659.",Coimbatore,Private,90000
+2717,"Sasurie College of Engineering, Vijayamangalam, Tirupur District-638056.",Tirupur,Private,70000
+2740,"Hindusthan Institute of Technology (Autonomous), Othakkalmandapam Post, Coimbatore-641032.",Coimbatore,Private,90000
+2767,"SRG Engineering College, SH-95,Mohanur Road, Aniyapuram, Namakkal-637017.",Namakkal,Private,70000
+3807,"J.J. College of Engineering and Technology, Ammapettai, Poolankulathupatti Post, Tiruchirappalli-620009.",Tiruchirappalli,Private,90000
+3811,"M.I.E.T. Engineering College (Autonomous), Trichy - Pudukkottai Road, Gundur, Tiruchirappalli-620007.",Tiruchirappalli,Private,90000
+3831,"Indra Ganesan College of Engineering, Madurai Main Road, Manikandam, Tiruchirappalli- 620012.",Madurai,Private,90000
+3833,"Parisutham Institute of Technology and Science (Autonomous), NH 67 Ring Road, Nanjikottai, Thanjavur-613006.",Thanjavur,Private,70000
+3848,"Vandayar Engineering College, Pulavarnatham (Post), Mariammankovil (via), Nagai Main Road, Thanjavur-613501.",Thanjavur,Private,70000
+3908,"Mount Zion College of Engineering and Technology, Lena vilakku, Pilivalam Post, Pudukkottai-622507.",Pudukkottai,Private,70000
+4944,"Arunachala College of Engineering for Women, Thanka Gardens, Manavilai, Vellichanthai, Nagercoil, Kanyakumari District-629203.",Kanyakumari,Private,70000
+4998,"Mahakavi Bharathiyar College of Engineering and Technology, Kovil Nagar, Vasudevanallur, Sivagiri Taluk, Tirunelveli District -627758.",Tirunelveli,Private,70000
+5532,"Vaigai College of Engineering, Therkutheru, Melur Taluk, Madurai-625122.",Madurai,Private,90000
